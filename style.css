@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    color:green;
+
+}
+p{
+    font-size: 60px;
+    text-align: center;
+    color: cyan;
+}
+img{
+    width: 300px;
+    margin-left: 800px;
+}
